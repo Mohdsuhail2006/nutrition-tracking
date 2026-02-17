@@ -1,0 +1,20 @@
+{
+  "weightGain": {
+    "Monday": ["High protein breakfast", "College lunch", "Protein shake"],
+    "Tuesday": ["Oats breakfast", "Chicken lunch", "Salad dinner"],
+    "Wednesday": ["Eggs breakfast", "Rice lunch", "Steak dinner"],
+    "Thursday": ["Pancake breakfast", "Fish lunch", "Yogurt snack"],
+    "Friday": ["Toast breakfast", "Burger lunch", "Fruit snack"],
+    "Saturday": ["Cereal breakfast", "Pizza lunch", "Ice cream snack"],
+    "Sunday": ["Bagel breakfast", "Pasta lunch", "Smoothie snack"]
+  },
+  "weightLoss": {
+    "Monday": ["Oats breakfast", "Salad lunch", "Light dinner"],
+    "Tuesday": ["Fruit breakfast", "Soup lunch", "Grilled chicken dinner"],
+    "Wednesday": ["Egg white breakfast", "Veggie lunch", "Fish dinner"],
+    "Thursday": ["Smoothie breakfast", "Turkey lunch", "Steamed veggies snack"],
+    "Friday": ["Yogurt breakfast", "Quinoa lunch", "Apple snack"],
+    "Saturday": ["Toast breakfast", "Chicken salad lunch", "Banana snack"],
+    "Sunday": ["Cereal breakfast", "Vegetable soup lunch", "Light dinner"]
+  }
+}
